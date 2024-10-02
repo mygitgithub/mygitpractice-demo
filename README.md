@@ -1,3 +1,3 @@
 # mygitpractice-demo
-This is myfirst git repository
+This is myfirst git repository.
 Author- Gaurav Arora
